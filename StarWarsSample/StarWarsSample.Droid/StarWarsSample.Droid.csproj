@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="..\packages\Xamarin.Build.Download.0.4.9\build\Xamarin.Build.Download.props" Condition="Exists('..\packages\Xamarin.Build.Download.0.4.9\build\Xamarin.Build.Download.props')" />
   <PropertyGroup>
@@ -69,7 +69,7 @@
     <PackageReference Include="OxyPlot.Core" Version="2.0.0" />
     <PackageReference Include="OxyPlot.Xamarin.Android" Version="1.1.0-unstable0011" />
     <PackageReference Include="Refractored.Controls.CircleImageView" Version="1.0.1" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Com.Airbnb.Android.Lottie" Version="3.5.0" />
     <PackageReference Include="Xamarin.AndroidX.PercentLayout" Version="1.0.0.7" />
     <PackageReference Include="Xamarin.Android.Arch.Core.Common" Version="1.1.1.3" />
